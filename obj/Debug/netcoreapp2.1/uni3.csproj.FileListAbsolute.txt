@@ -1,0 +1,4 @@
+C:\Users\victo\Documents\CG\uni3\obj\Debug\netcoreapp2.1\uni3.csprojAssemblyReference.cache
+C:\Users\victo\Documents\CG\uni3\obj\Debug\netcoreapp2.1\uni3.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\CG\uni3\obj\Debug\netcoreapp2.1\uni3.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\CG\uni3\obj\Debug\netcoreapp2.1\uni3.AssemblyInfo.cs
